@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "serge",
+  "versions": [
+    {
+      "commit": "6668325d7a4a2e9c3fe814f95f249df0ec347cfd",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:07:34.033386+00:00"
+    }
+  ]
+}
